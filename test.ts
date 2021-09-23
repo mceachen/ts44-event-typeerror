@@ -1,6 +1,6 @@
-import { addListener, env, exit, pid, stdout } from "process";
+import process from "process";
 
-addListener("SIGINT", (evt) => {
+process.addListener("SIGINT", (evt) => {
   console.log("caught SIGINT", evt);
 });
 

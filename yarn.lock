@@ -7,7 +7,7 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-16.9.6.tgz#040a64d7faf9e5d9e940357125f0963012e66f04"
   integrity sha512-YHUZhBOMTM3mjFkXVcK+WwAcYmyhe1wL4lfqNtzI0b3qAy7yuSetnM7QJazgE5PFmgVTNGiLOgRFfJMqW7XpSQ==
 
-typescript@^4.5.0-dev.20210923:
-  version "4.5.0-dev.20210923"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.5.0-dev.20210923.tgz#9c8b16abafd2041bd05ddf07831c0f2bdc26ae73"
-  integrity sha512-dYmkDaDTblBvvyBz4TfZFg/JYcFqs5F60OhlAg9BEeJRWQCxfB4PyedSmSRUxNj+r4b2tZWHPtNvZRwlNJPqog==
+typescript@4.4.3:
+  version "4.4.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.4.3.tgz#bdc5407caa2b109efd4f82fe130656f977a29324"
+  integrity sha512-4xfscpisVgqqDfPaJo5vkd+Qd/ItkoagnHpufr+i2QCHBsNYp+G7UAoyFl8aPtx879u38wPV65rZ8qbGZijalA==
